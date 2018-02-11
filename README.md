@@ -7,3 +7,8 @@ Major Libraries used: datetime, re
 
 # Summary
 My approach first identifies the repeat donors for each recipient, taking care of the input considerations. It then maps each recipient to his repeat donors, by zipcode and calendar year. Computations for running percentile, total donations and count of repeat donors are made for each recipient according to calendar year.
+
+NOTE: The 'input' folder does not have an 'itcont.txt' since it is a large file. Please include an appropriate 'itcont.txt' file before running the code. 
+
+Thanks,
+Apoorva Joshi.
