@@ -9,5 +9,5 @@ My approach first identifies the repeat donors for each recipient, taking care o
 
 NOTE: The 'input' folder does not have an 'itcont.txt' since it is a large file. Please include an appropriate 'itcont.txt' file before running the code. 
 
-Thanks,\n
-Apoorva Joshi.
+
+-Apoorva Joshi.
